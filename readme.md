@@ -1,0 +1,1 @@
+This is read me to use for the first test for learning GIT
